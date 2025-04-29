@@ -1,0 +1,10 @@
+input{width: 100%;}
+.myrow{margin: 5px 10px;}
+.mybtn{min-width: 80px;}
+h1{
+font-weight: 700;
+margin: 10px;
+}
+.items-container{
+  text-align: left;
+}
